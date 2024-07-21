@@ -1,0 +1,31 @@
+Power Pivot , Dashboard, Basic Power Query etc
+
+Power - Pivot & Dashboard Steps:
+
+1) After doing all formating  now we have to create the pivot table for that what we will apply pivot and then select two columns segment and sales  after that convert into row format from Design => Report Layout => Show in Tabular Form.   & also remove the Grand Total Option so Deign => Grand Total => 1st Option Then we have to remove the decimal values so go in Home tab and decrease the decimal 
+
+2) After doing all stuff we have to create the chart so select data go for Analyze then select the chart & Go with pie chart after that do some formating go in quick layout and select 1st Option and now rename the sheet as Segment so now i want same pivot so what i will do right click to segment sheet select the move or copy option Then check create copy and see the changes.
+
+3) Now click to data and remove the Segment column & add Ship mode column and see the changes after that change the chart & select column chart  now sort data into desending order so in data ribbion select the desending option over Sum of Sales Column & rename the sheet as Ship Mode. We have to create new copy with same pivot so do same steps after that from pivot data remove ship data & add Sub Category column then change the Chart as Bar chart & rename the sheet as "Sub Category " .
+
+4)  We have to create new copy with same pivot so do same steps after that from pivot data remove ship data & add State column then change the Chart as Line Chart . After that comeback to Segment sheet because we have to add slicers so click to visual then select Analyse => Insert Slicer and select Region and Category now select the slicer and above select the report connection and then select all the sheets and we have to add the Timiline also so select timeline and select date there is dropdown so select the year and now remove unwanted things from chart so remove from Pie chart and all the visuals we have created 
+
+5)  After doing all formating we have to create the dashboard so add new sheet rename as dashboard and drag it to 1st sheet , Now select some column and merge it do some basic formating after that go in view remove all gridline , header and formula bar , Now we have to collapse the ribbion also  after that go in Segment sheet Cut the pie chart, Slicer and Timeline & paste into Dashboard sheet & do same steps from every sheet remove the visuals and paste in Dashboard sheet
+
+6)  Now do formating for Slicer means increase the column of Category slicer after that remove the header and below that click to slicer setting uncheck the header option and drag the head to topmost part so do same steps with region also & drag at the top , Now from state sheet remove the line chart & paste into dashboard and after that suppose if we want to add the theme so do some basic formating for that from ribbion go for Page Layout option => Themes and do the changes .
+
+7) Now If we want to share the dashboard we can also share so on the sheet right side corner we have Share option and we can share through excel file or PDF file.
+
+8) Now if we share the excel file and some user will try to change the data for that we will protect the file so to do we will select reveiw option from ribbion => select protect => give password 
+
+9) Now from Dashboard try to analyze the data by selecting the slicers 
+
+
+
+Now we have to learn Power Pivot 
+
+1) So example we have data from 2 to 3 file & we have to collect that data & store into 1 file & then create the Dashboard for that we have to use the method known as Power Pivot
+2) Now we have to do some settings so click file => options => Addins => at the botton click to dropdown and select COM Addin => GO => Check Power Pivot & Press OK
+3) So the Purpose of creating the Power Pivot is that example we have scenerio that we have to find department wise salary but the data is present in 2 diff files or sheet then how to connect that 2 tables that we will learn ,
+Click to manage => From other Source => see at bottom excel and then browse the file => Check the box of header  => Test Connection => Select both sheet => Import OK
+4) Now In home tab we can see the data is loaded after that in ribbion we have option of Diagram view select that & check the common column and create the relationship after that select the Data View and now we have to add the Pivot so select pivot from ribbion choose the Exisiing Worksheet option and select Departmen and Basic option & see the changes 

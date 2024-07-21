@@ -1,0 +1,51 @@
+Advance Excel Questions
+
+1) What is ETL ?
+
+2) Which features is called  ETL in Excel ?
+
+3) What is Data Modelling in Excel ?
+
+4) DAX Stands for ?  Data Analysis Expressions
+
+5) VBA Stands for ?
+
+6) What is default Data Type in VBA ? Variant
+
+7) What is shortcut to run VBA Code ?
+
+8) What is shortcut to go in VBA to Excel / Excel to VBA ?
+
+9) What is shortcut for instant Chart ?
+
+10) What is shortcut to create chart in same sheet ?
+
+11) What is Sparkline in Excel ?
+
+12) What is UDF stands for VBA ?
+
+13) What is Slicer / Timeline 
+
+14) Explain Table in Excel, What is Shortcut ?
+
+15) What is Pivot Table ?
+
+16) How many Arguments Sumifs, Averageifs, Countifs, Ifs Function can take ? 127
+
+17) How many Arguments concatenate function can take ?
+
+18) Difference between Count, Counta, Countif, Countifs, Countblank ?
+
+19) Mention 5 Information Functions ?
+
+20) How many rows & Columns are available in Excel (Old & New Version)?
+
+21) What is the Extension name of Excel File ?
+
+22) What is the Extension name of Macro enabled workbook ?
+
+23) What is Flash Fill , What is the shortcut ?
+
+24) What is workbook ?
+
+25) What is a cell ?
